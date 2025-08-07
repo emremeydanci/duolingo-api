@@ -1,0 +1,6 @@
+2024-01-01 12:00:00 - INFO - Hummingbot başlatıldı
+2024-01-01 12:01:00 - INFO - Strateji yüklendi: pure_market_making
+2024-01-01 12:02:00 - INFO - Binance bağlantısı kuruldu
+2024-01-01 12:03:00 - INFO - BTC/USDT çifti için market making başlatıldı
+2024-01-01 12:04:00 - DEBUG - Bid: 45000.00, Ask: 45010.00
+2024-01-01 12:05:00 - INFO - Pozisyon açıldı: BUY 0.001 BTC at 45000.00
