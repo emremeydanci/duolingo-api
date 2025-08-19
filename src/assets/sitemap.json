@@ -1,0 +1,18 @@
+{
+  "Core": [
+    ["İstatistikler", "/stats"],
+    ["Profil", "/profile"],
+    ["Ayarlar", "/settings"]
+  ],
+  "Opportunites": [
+    ["Dil Öğrenme", "/learning"],
+    ["Yarışmalar", "/competitions"],
+    ["Liderlik Tablosu", "/leaderboard"]
+  ],
+  "Extras": [
+    ["Duolingo Plus", "/plus"],
+    ["Başarılar", "/achievements"],
+    ["Arkadaşlar", "/friends"],
+    ["Yardım", "/help"]
+  ]
+}
